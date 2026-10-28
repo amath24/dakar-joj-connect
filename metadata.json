@@ -1,0 +1,6 @@
+{
+  "name": "Dakar JOJ Connect",
+  "description": "Plateforme pour les Jeux Olympiques de la Jeunesse Dakar 2026 : programme des compétitions, hébergements, gastronomie, sites & stades et CMS en temps réel.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
